@@ -1,6 +1,6 @@
 # SpaceX Data Analysis Project
 # Aperçu du projet
-Ce répertoire regroupe l'ensemble des résultats du projet d'analyse de données SpaceX réalisé dans le cadre du projet IBM Capstone. L'objectif de ce projet est d'analyser et de prédire pour une hypothétique société de fusées "SpaceY" qui veut se lancer sur le marché des vols spaciaux, les performances des lancements de SpaceX en utilisant les données fournies par l'API SpaceX et les techniques de web scraping. Les résultats tirés de cette analyse ont pour but d'optimiser les stratégies opérationnelles de "SpaceY" afin de proposer un prix concurenciel sur le marché des vols spaciaux.
+Ce répertoire regroupe l'ensemble des résultats du projet d'analyse de données SpaceX réalisé dans le cadre du projet IBM Capstone en lien avec la certification professionnelle IBM Data Science. L'objectif de ce projet est d'analyser et de prédire pour une hypothétique société de fusées "SpaceY" qui veut se lancer sur le marché des vols spaciaux, les performances des lancements de SpaceX en utilisant les données fournies par l'API SpaceX et les techniques de web scraping. Les résultats tirés de cette analyse ont pour but d'optimiser les stratégies opérationnelles de "SpaceY" afin de proposer un prix concurenciel sur le marché des vols spaciaux.
 # Contenus
 Dans ce répertoire, vous trouverez 8 fichiers IPYNB présentant les résultats de cette analyse, de la collecte de donnée à l'analyse prédictive.
 # Introduction
